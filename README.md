@@ -1,6 +1,5 @@
 # FitClubNetwork
 ## Details
-
 - **Course Code:** COIT132229
 - **Course Title:** Applied Distributed Systems
 - **Assessment:**  Java Client/Server Application
